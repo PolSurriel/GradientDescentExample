@@ -1,0 +1,7 @@
+/obj
+/.vs
+/RobotController/obj
+/RobotController/RobotController/obj/*
+/*.sln
+/RobotController/Properties
+/RobotController/RobotController.csproj
